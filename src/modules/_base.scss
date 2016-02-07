@@ -1,7 +1,35 @@
+html {
+	box-sizing: border-box;
+	height: 100%;
+}
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
 body {
 	
 }
 
 .wrap {
 	
+}
+
+
+
+/* =Strips
+========================================= */
+.tracker-strip {
+	display: block;
+	padding: $strip-padding 0;
+}
+
+
+/* =Round Details
+========================================= */
+.round-wrapper {
+	border-bottom: 1px solid $black;
+	display: block;
+	padding: 2em 0;
 }

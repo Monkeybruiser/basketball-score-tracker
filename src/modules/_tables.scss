@@ -1,0 +1,16 @@
+table {
+	width: 100%;
+}
+
+tr {
+	
+}
+
+th,
+td {
+	padding: .5em;
+	text-align: center;
+	&:first-child {
+		text-align: left;
+	}
+}
