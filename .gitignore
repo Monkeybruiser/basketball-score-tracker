@@ -1,0 +1,12 @@
+# Ignore gulp
+node_modules
+
+# Ignore codekit
+*.scssc
+*.codekit
+
+# Track these files.
+!.gitignore
+!package.json
+!gulpfile.js
+!public/.htaccess

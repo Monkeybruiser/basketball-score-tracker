@@ -1,0 +1,37 @@
+/* =Colour Variables
+==========================================*/
+$alert-yellow:			#ebe16f;
+$alert-red:				#fbe3e4;
+$alert-green:			#e6efc2;
+$alert-blue:			#d5edf8;
+
+$black:					#323944;
+$white:					#fff;
+
+$text-color:			#575757;
+
+$link-color:        	$text-color;
+$link-hover:        	darken($link-color, 9%);
+
+
+/* =Social colours
+==========================================*/
+$social-facebook:		#4d70a8;
+$social-twitter:		#01baf2;
+$social-google:			#e3401d;
+$social-linkedin:		#1687b1;
+
+
+/* =Wrap Width
+==========================================*/
+$wrap-restrict:			43.750em; // 700px
+
+
+/* =Strip Padding
+==========================================*/
+$strip-padding:			2.125em;
+
+
+/* =Site Transitions
+==========================================*/
+$transition-time:		.25s;
